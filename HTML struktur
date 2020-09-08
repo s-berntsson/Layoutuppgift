@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <article class="grid-container1">
+            <section class="grid-item-covererd"></section>
+            <section class="grid-item-learn"></section>
+            <section class="grid-item-join"></section>
+        </article>
+        <nav>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="grid-container2">
+            <article class="grid-item-grey"></article>
+            <article class="grid-item-yellow"></article>
+        </section>
+        <section class="flex-container2">
+            <figure class="flex-item1"></figure>
+            <figure class="flex-item2"></figure>
+            <figure class="flex-item3"></figure>
+        </section>
+        <section class="instructions">
+            <ul class="grid-container3">
+                <li class="grid-item-how"></li>
+                <li class="grid-item-01"></li>
+                <li class="grid-item-02"></li>
+                <li class="grid-item-03"></li>
+                <li class="grid-item-04"></li>
+                <li class="grid-item-05"></li>
+            </ul>
+        </section>
+        <article class="take-me-up">
+        </article>
+    </main>
+    <footer>
+    </footer>
+</body>
+
+</html>
